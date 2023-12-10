@@ -77,6 +77,4 @@ This project explores the impact of advertising efforts on sales by employing Li
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Feel free to customize this template to fit your project's specific details and goals.
